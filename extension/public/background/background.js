@@ -1,0 +1,1 @@
+console.log("SummarAI background service worker running!");

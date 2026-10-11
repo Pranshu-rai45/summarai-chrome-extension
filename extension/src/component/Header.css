@@ -1,0 +1,38 @@
+.header {
+  padding: 16px 8px 8px;
+  text-align: left;
+}
+
+.header__label {
+  display: inline-block;
+  margin-bottom: 10px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(34, 211, 238, 0.12);
+  border: 1px solid rgba(103, 232, 249, 0.4);
+  color: #a5f3fc;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.header-title {
+  margin: 0;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #f8fafc;
+}
+
+.header-subtitle {
+  margin: 10px 0 0;
+  color: #cbd5e1;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.header-subtitle span {
+  margin: 0 4px;
+  color: #67e8f9;
+}
